@@ -1,0 +1,264 @@
+[2025-07-04 10:08:11 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-07-04 16:15:35 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-04 16:15:36 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-04 16:16:32 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-04 16:16:32 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-04 16:22:22 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-04 16:22:22 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-04 16:23:15 : INFO] - Cache for URL: https://nesdia.com/blog/ has been purged, triggered by action: save_post 
+[2025-07-04 16:23:15 : INFO] - Cache for URL: https://nesdia.com/blog/ has been purged, triggered by action: save_post 
+[2025-07-04 16:23:30 : INFO] - Cache for URL: https://nesdia.com/blog/ has been purged, triggered by action: save_post 
+[2025-07-04 16:23:30 : INFO] - Cache for URL: https://nesdia.com/blog/ has been purged, triggered by action: save_post 
+[2025-07-04 16:24:03 : INFO] - Cache for URL: https://nesdia.com/?p=509 has been purged, triggered by action: save_post 
+[2025-07-04 16:24:03 : INFO] - Cache for previous post (with URL: https://nesdia.com/sample-posts-4/) adjacent to post with id: 509 has been purged, triggered by action: save_post 
+[2025-07-04 16:24:03 : INFO] - Cache for next post (with URL: https://nesdia.com/hello-world/) adjacent to post with id: 509 has been purged, triggered by action: save_post 
+[2025-07-04 16:24:03 : INFO] - Cache for all archives page associated with post_type: post and Title: "Auto Draft" have been purged, triggered by action: save_post 
+[2025-07-04 16:25:12 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-07-04 16:25:13 : INFO] - Cache for URL: https://nesdia.com/languages-are-dying/ has been purged, triggered by action: save_post 
+[2025-07-04 16:25:13 : INFO] - Cache for previous post (with URL: https://nesdia.com/sample-posts-4/) adjacent to post with id: 509 has been purged, triggered by action: save_post 
+[2025-07-04 16:25:13 : INFO] - Cache for next post (with URL: https://nesdia.com/hello-world/) adjacent to post with id: 509 has been purged, triggered by action: save_post 
+[2025-07-04 16:25:13 : INFO] - Cache for all archives page associated with post_type: post and Title: "Languages are dying!" have been purged, triggered by action: save_post 
+[2025-07-04 16:25:13 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-07-04 16:25:13 : INFO] - Cache for URL: https://nesdia.com/languages-are-dying/ has been purged, triggered by action: save_post 
+[2025-07-04 16:25:13 : INFO] - Cache for previous post (with URL: https://nesdia.com/sample-posts-4/) adjacent to post with id: 509 has been purged, triggered by action: save_post 
+[2025-07-04 16:25:13 : INFO] - Cache for next post (with URL: https://nesdia.com/hello-world/) adjacent to post with id: 509 has been purged, triggered by action: save_post 
+[2025-07-04 16:25:13 : INFO] - Cache for all archives page associated with post_type: post and Title: "Languages are dying!" have been purged, triggered by action: save_post 
+[2025-07-04 18:32:12 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-04 18:32:13 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-04 18:32:18 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-04 18:32:18 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-04 19:06:21 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 19:06:21 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 19:14:20 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 19:14:20 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 19:30:27 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 19:30:27 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 19:33:05 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 19:33:06 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 19:34:49 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 19:34:49 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 19:36:38 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 19:36:38 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 19:37:10 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 19:37:11 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 20:15:56 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-04 20:15:56 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-04 20:17:13 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-04 20:17:14 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-04 20:29:14 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-04 20:29:14 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-04 20:36:23 : INFO] - Cache for URL: https://nesdia.com/contact/ has been purged, triggered by action: save_post 
+[2025-07-04 20:36:24 : INFO] - Cache for URL: https://nesdia.com/contact/ has been purged, triggered by action: save_post 
+[2025-07-04 20:36:26 : INFO] - Cache for URL: https://nesdia.com/contact/ has been purged, triggered by action: save_post 
+[2025-07-04 20:36:27 : INFO] - Cache for URL: https://nesdia.com/contact/ has been purged, triggered by action: save_post 
+[2025-07-04 20:41:17 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-04 20:41:18 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-04 20:54:40 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-04 20:54:40 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-04 20:55:09 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-04 20:55:10 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-04 21:05:47 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 21:05:47 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 21:23:16 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 21:23:17 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 21:24:26 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 21:24:27 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 21:25:08 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 21:25:09 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 21:25:58 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 21:25:59 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 22:00:17 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 22:00:18 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 22:08:00 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 22:08:00 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 22:17:06 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 22:17:07 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 22:18:59 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 22:18:59 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 22:22:30 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 22:22:30 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 22:44:54 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 22:44:54 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 22:46:57 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 22:46:58 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 22:48:56 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 22:48:56 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 22:51:43 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 22:51:43 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 22:52:39 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 22:52:39 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-04 22:56:33 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-04 22:56:33 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-04 23:00:09 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-04 23:00:10 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-04 23:02:40 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 23:02:40 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 23:02:51 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 23:02:51 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 23:09:35 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 23:09:35 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 23:17:56 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 23:17:56 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 23:25:27 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 23:25:28 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 23:27:11 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 23:27:11 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 23:27:13 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 23:27:13 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 23:28:00 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 23:28:00 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 23:30:08 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 23:30:08 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 23:30:25 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 23:30:25 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 23:52:15 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-04 23:52:15 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 00:03:52 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-05 00:03:52 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-05 00:04:26 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-05 00:04:27 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-05 04:33:26 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 04:33:26 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 05:01:32 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 05:01:32 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 05:07:17 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 05:07:18 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 05:22:09 : INFO] - Cache for URL: https://nesdia.com/contact/ has been purged, triggered by action: save_post 
+[2025-07-05 05:22:09 : INFO] - Cache for URL: https://nesdia.com/contact/ has been purged, triggered by action: save_post 
+[2025-07-05 05:28:04 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-05 05:28:04 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-05 05:31:06 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-05 05:31:06 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-05 05:35:17 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-05 05:35:17 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-05 05:41:24 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-05 05:41:25 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-05 05:42:54 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-05 05:42:54 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-05 05:43:15 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-05 05:43:15 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-05 05:51:17 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-05 05:51:17 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-05 05:51:23 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-05 05:51:23 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-05 05:52:50 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-05 05:52:50 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-05 06:28:14 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-05 06:28:14 : INFO] - Cache for URL: https://nesdia.com/pricing/ has been purged, triggered by action: save_post 
+[2025-07-05 06:34:01 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-05 06:34:01 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-05 06:34:37 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-05 06:34:38 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-05 06:39:29 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 06:39:29 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 06:43:43 : INFO] - Cache for URL: https://nesdia.com/privacy-policy/ has been purged, triggered by action: save_post 
+[2025-07-05 06:43:43 : INFO] - Cache for URL: https://nesdia.com/privacy-policy/ has been purged, triggered by action: save_post 
+[2025-07-05 06:57:12 : INFO] - Cache for URL: https://nesdia.com/privacy-policy/ has been purged, triggered by action: save_post 
+[2025-07-05 06:57:12 : INFO] - Cache for URL: https://nesdia.com/privacy-policy/ has been purged, triggered by action: save_post 
+[2025-07-05 07:00:13 : INFO] - Cache for URL: https://nesdia.com/privacy-policy/ has been purged, triggered by action: save_post 
+[2025-07-05 07:00:14 : INFO] - Cache for URL: https://nesdia.com/privacy-policy/ has been purged, triggered by action: save_post 
+[2025-07-05 08:01:50 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 08:01:50 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 08:03:29 : INFO] - Cache for URL: https://nesdia.com/blog/ has been purged, triggered by action: save_post 
+[2025-07-05 08:03:29 : INFO] - Cache for URL: https://nesdia.com/blog/ has been purged, triggered by action: save_post 
+[2025-07-05 08:22:08 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 08:22:08 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 08:55:22 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 08:55:22 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 09:12:36 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 09:12:36 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 09:31:58 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 09:31:59 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 09:32:38 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 09:32:38 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 09:33:27 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-05 09:33:27 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-05 09:34:04 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-05 09:34:05 : INFO] - Cache for URL: https://nesdia.com/about/ has been purged, triggered by action: save_post 
+[2025-07-05 09:49:37 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 09:49:37 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 09:59:17 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 09:59:17 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 10:08:00 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 10:08:00 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 10:08:14 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 10:08:15 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 10:08:28 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 10:08:28 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-05 10:10:05 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-05 10:10:06 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-06 04:32:25 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-06 04:32:25 : INFO] - Cache for URL: https://nesdia.com/features/ has been purged, triggered by action: save_post 
+[2025-07-06 18:02:41 : INFO] - Cache for URL: https://nesdia.com/hello-world/ has been purged, triggered by action: wp_trash_post 
+[2025-07-06 18:02:41 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-07-06 18:02:42 : INFO] - Cache for URL: https://nesdia.com/?p=1 has been purged, triggered by action: save_post 
+[2025-07-06 18:02:42 : INFO] - Cache for previous post (with URL: https://nesdia.com/languages-are-dying/) adjacent to post with id: 1 has been purged, triggered by action: save_post 
+[2025-07-06 18:02:42 : INFO] - Cache for all archives page associated with post_type: post and Title: "Hello world!" have been purged, triggered by action: save_post 
+[2025-07-06 18:02:42 : INFO] - Cache for URL: https://nesdia.com/languages-are-dying/ has been purged, triggered by action: wp_trash_post 
+[2025-07-06 18:02:42 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-07-06 18:02:43 : INFO] - Cache for URL: https://nesdia.com/?p=509 has been purged, triggered by action: save_post 
+[2025-07-06 18:02:43 : INFO] - Cache for previous post (with URL: https://nesdia.com/sample-posts-4/) adjacent to post with id: 509 has been purged, triggered by action: save_post 
+[2025-07-06 18:02:43 : INFO] - Cache for all archives page associated with post_type: post and Title: "Languages are dying!" have been purged, triggered by action: save_post 
+[2025-07-06 18:02:43 : INFO] - Cache for URL: https://nesdia.com/sample-posts-4/ has been purged, triggered by action: wp_trash_post 
+[2025-07-06 18:02:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-07-06 18:02:43 : INFO] - Cache for URL: https://nesdia.com/?p=419 has been purged, triggered by action: save_post 
+[2025-07-06 18:02:43 : INFO] - Cache for previous post (with URL: https://nesdia.com/sample-post-3/) adjacent to post with id: 419 has been purged, triggered by action: save_post 
+[2025-07-06 18:02:43 : INFO] - Cache for all archives page associated with post_type: post and Title: "Sample Posts #4" have been purged, triggered by action: save_post 
+[2025-07-06 18:02:43 : INFO] - Cache for URL: https://nesdia.com/sample-post-3/ has been purged, triggered by action: wp_trash_post 
+[2025-07-06 18:02:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-07-06 18:02:44 : INFO] - Cache for URL: https://nesdia.com/?p=414 has been purged, triggered by action: save_post 
+[2025-07-06 18:02:44 : INFO] - Cache for previous post (with URL: https://nesdia.com/sample-post-2/) adjacent to post with id: 414 has been purged, triggered by action: save_post 
+[2025-07-06 18:02:44 : INFO] - Cache for all archives page associated with post_type: post and Title: "Sample Post #3" have been purged, triggered by action: save_post 
+[2025-07-06 18:02:44 : INFO] - Cache for URL: https://nesdia.com/sample-post-2/ has been purged, triggered by action: wp_trash_post 
+[2025-07-06 18:02:44 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-07-06 18:02:44 : INFO] - Cache for URL: https://nesdia.com/?p=411 has been purged, triggered by action: save_post 
+[2025-07-06 18:02:44 : INFO] - Cache for previous post (with URL: https://nesdia.com/sample-post-1/) adjacent to post with id: 411 has been purged, triggered by action: save_post 
+[2025-07-06 18:02:44 : INFO] - Cache for all archives page associated with post_type: post and Title: "Sample Post #2" have been purged, triggered by action: save_post 
+[2025-07-06 18:02:45 : INFO] - Cache for URL: https://nesdia.com/sample-post-1/ has been purged, triggered by action: wp_trash_post 
+[2025-07-06 18:02:45 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-07-06 18:02:45 : INFO] - Cache for URL: https://nesdia.com/?p=408 has been purged, triggered by action: save_post 
+[2025-07-06 18:02:45 : INFO] - Cache for all archives page associated with post_type: post and Title: "Sample Post #1" have been purged, triggered by action: save_post 
+[2025-07-07 02:48:45 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-07 02:48:46 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-07 02:50:15 : INFO] - Cache for URL: https://nesdia.com/labs/ has been purged, triggered by action: save_post 
+[2025-07-07 02:50:15 : INFO] - Cache for URL: https://nesdia.com/labs/ has been purged, triggered by action: save_post 
+[2025-07-07 02:50:53 : INFO] - Cache for URL: https://nesdia.com/news/ has been purged, triggered by action: save_post 
+[2025-07-07 02:50:53 : INFO] - Cache for URL: https://nesdia.com/news/ has been purged, triggered by action: save_post 
+[2025-07-07 02:51:10 : INFO] - Cache for URL: https://nesdia.com/solutions/ has been purged, triggered by action: save_post 
+[2025-07-07 02:51:11 : INFO] - Cache for URL: https://nesdia.com/solutions/ has been purged, triggered by action: save_post 
+[2025-07-07 02:56:37 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-07 02:56:38 : INFO] - Cache for URL: https://nesdia.com/ has been purged, triggered by action: save_post 
+[2025-07-07 03:00:52 : INFO] - Cache for URL: https://nesdia.com/?p=672 has been purged, triggered by action: save_post 
+[2025-07-07 03:00:52 : INFO] - Cache for all archives page associated with post_type: post and Title: "Auto Draft" have been purged, triggered by action: save_post 
+[2025-07-07 03:02:10 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-07-07 03:02:10 : INFO] - Cache for URL: https://nesdia.com/global-language-extinction-historical-trends-and-consequences/ has been purged, triggered by action: save_post 
+[2025-07-07 03:02:10 : INFO] - Cache for all archives page associated with post_type: post and Title: "Global Language Extinction: Historical Trends and Consequences" have been purged, triggered by action: save_post 
+[2025-07-07 03:02:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-07-07 03:02:11 : INFO] - Cache for URL: https://nesdia.com/global-language-extinction-historical-trends-and-consequences/ has been purged, triggered by action: save_post 
+[2025-07-07 03:02:11 : INFO] - Cache for all archives page associated with post_type: post and Title: "Global Language Extinction: Historical Trends and Consequences" have been purged, triggered by action: save_post 
+[2025-07-07 03:03:49 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-07-07 03:03:49 : INFO] - Cache for URL: https://nesdia.com/global-language-extinction-historical-trends-and-consequences/ has been purged, triggered by action: save_post 
+[2025-07-07 03:03:49 : INFO] - Cache for all archives page associated with post_type: post and Title: "Global Language Extinction: Historical Trends and Consequences" have been purged, triggered by action: save_post 
+[2025-07-07 03:03:49 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-07-07 03:03:50 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-07-07 03:03:50 : INFO] - Cache for URL: https://nesdia.com/global-language-extinction-historical-trends-and-consequences/ has been purged, triggered by action: save_post 
+[2025-07-07 03:03:50 : INFO] - Cache for all archives page associated with post_type: post and Title: "Global Language Extinction: Historical Trends and Consequences" have been purged, triggered by action: save_post 
+[2025-07-07 03:07:04 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-07-07 03:07:05 : INFO] - Cache for URL: https://nesdia.com/global-language-extinction-historical-trends-and-consequences/ has been purged, triggered by action: save_post 
+[2025-07-07 03:07:05 : INFO] - Cache for all archives page associated with post_type: post and Title: "Global Language Extinction: Historical Trends and Consequences" have been purged, triggered by action: save_post 
+[2025-07-07 03:07:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-07-07 03:07:05 : INFO] - Cache for URL: https://nesdia.com/global-language-extinction-historical-trends-and-consequences/ has been purged, triggered by action: save_post 
+[2025-07-07 03:07:05 : INFO] - Cache for all archives page associated with post_type: post and Title: "Global Language Extinction: Historical Trends and Consequences" have been purged, triggered by action: save_post 
+[2025-07-07 03:10:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-07-07 03:10:11 : INFO] - Cache for URL: https://nesdia.com/global-language-extinction-historical-trends-and-consequences/ has been purged, triggered by action: save_post 
+[2025-07-07 03:10:11 : INFO] - Cache for all archives page associated with post_type: post and Title: "Global Language Extinction: Historical Trends and Consequences" have been purged, triggered by action: save_post 
+[2025-07-07 03:10:12 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-07-07 03:10:12 : INFO] - Cache for URL: https://nesdia.com/global-language-extinction-historical-trends-and-consequences/ has been purged, triggered by action: save_post 
+[2025-07-07 03:10:12 : INFO] - Cache for all archives page associated with post_type: post and Title: "Global Language Extinction: Historical Trends and Consequences" have been purged, triggered by action: save_post 
+[2025-07-07 04:58:19 : INFO] - Cache for URL: https://nesdia.com/reports/ has been purged, triggered by action: save_post 
+[2025-07-07 04:58:19 : INFO] - Cache for URL: https://nesdia.com/reports/ has been purged, triggered by action: save_post 
+[2025-07-07 04:58:45 : INFO] - Cache for URL: https://nesdia.com/reports/ has been purged, triggered by action: save_post 
+[2025-07-07 04:58:45 : INFO] - Cache for URL: https://nesdia.com/reports/ has been purged, triggered by action: save_post 
+[2025-07-18 13:54:57 : INFO] - Cache for URL: https://nesdia.com/?p=684 has been purged, triggered by action: save_post 
+[2025-07-18 13:54:57 : INFO] - Cache for previous post (with URL: https://nesdia.com/global-language-extinction-historical-trends-and-consequences/) adjacent to post with id: 684 has been purged, triggered by action: save_post 
+[2025-07-18 13:54:57 : INFO] - Cache for all archives page associated with post_type: post and Title: "Auto Draft" have been purged, triggered by action: save_post 
