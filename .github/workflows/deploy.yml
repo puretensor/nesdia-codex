@@ -1,0 +1,25 @@
+name: Deploy to GCP
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Auth to GCP
+        uses: google-github-actions/auth@v2
+        with:
+          credentials_json: ${{ secrets.GCP_SA_KEY }}
+
+      - name: Set up Cloud SDK
+        uses: google-github-actions/setup-gcloud@v2
+
+      - name: Deploy to VM
+        run: |
+          gcloud compute scp --recurse src/* e2-medium-us-east4-a:/tmp/nesdia-deploy/ --zone=us-east4-a
+          gcloud compute ssh e2-medium-us-east4-a --zone=us-east4-a --command="sudo rm -rf /var/www/nesdia.com/* 2>/dev/null; sudo mv /tmp/nesdia-deploy/* /var/www/nesdia.com/; sudo chown -R www-data:www-data /var/www/nesdia.com/; rm -rf /tmp/nesdia-deploy"
